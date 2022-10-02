@@ -1,0 +1,13 @@
+--- auto/lib/conf
++++ auto/lib/conf
+@@ -25,6 +25,10 @@ if [ $USE_OPENSSL = YES ]; then
+     . auto/lib/openssl/conf
+ fi
+ 
++if [ $USE_QUICHE = YES ]; then
++    . auto/lib/quiche/conf
++fi
++
+ if [ $USE_ZLIB = YES ]; then
+     . auto/lib/zlib/conf
+ fi

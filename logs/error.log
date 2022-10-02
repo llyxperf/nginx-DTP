@@ -1,0 +1,10 @@
+2022/08/28 05:30:05 [emerg] 9320#0: "location" directive is not allowed here in /home/qwe/Desktop/code/nginx-1.16.1/conf/nginx.conf:54
+2022/08/28 05:30:39 [emerg] 9334#0: unexpected "}" in /home/qwe/Desktop/code/nginx-1.16.1/conf/nginx.conf:114
+2022/08/28 05:31:02 [emerg] 9336#0: bind() to 0.0.0.0:443 failed (13: Permission denied)
+2022/08/28 05:31:27 [emerg] 9348#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2022/08/28 05:31:27 [emerg] 9348#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2022/08/28 05:31:27 [emerg] 9348#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2022/08/28 05:31:27 [emerg] 9348#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2022/08/28 05:31:27 [emerg] 9348#0: bind() to 0.0.0.0:443 failed (98: Address already in use)
+2022/08/28 05:31:27 [emerg] 9348#0: still could not bind()
+2022/09/25 05:43:50 [emerg] 11095#0: bind() to 0.0.0.0:443 failed (13: Permission denied)
